@@ -5,7 +5,7 @@ export function updateProfileRequest(data) {
   };
 }
 
-export function updateProfileSuccess(data, profile) {
+export function updateProfileSuccess(profile) {
   return {
     type: '@user/UPDATE_PROFILE_SUCCESS',
     payload: { profile },
