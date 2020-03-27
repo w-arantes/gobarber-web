@@ -3,38 +3,35 @@ import 'react-toastify/dist/ReactToastify.css';
 import 'react-perfect-scrollbar/dist/css/styles.css';
 
 export default createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
   * {
     margin: 0;
     padding: 0;
-    outline: none;
+    outline: 0;
+    border: 0;
     box-sizing: border-box;
   }
   *:focus {
-    outline: none;
+    outline: 0;
   }
-  body, html {
-    height: auto;
+
+  html,body, #root {
+    height: 100%;
   }
   body {
     -webkit-font-smoothing: antialiased;
   }
   body, input, button {
-    font: 14px 'Roboto', sans-serif;
+    font: 14px 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   }
   a {
     text-decoration: none;
   }
-  ul {
-    list-style: none;
-  }
   button {
     cursor: pointer;
+    font-size: 16px;
   }
-  hr {
-    border: 0;
-    height: 1px;
-    background: rgba(255, 255, 255, 0.2);
-    margin: 10px 0 20px;
+  ul {
+    list-style: none;
   }
 `;

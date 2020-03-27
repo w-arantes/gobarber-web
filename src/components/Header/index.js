@@ -15,7 +15,7 @@ export default function Header() {
       <Content>
         <nav>
           <img src={logo} alt="GoBarber" />
-          <Link to="/dashboard">DASHBOARD</Link>
+          <Link to="/dashboard">DASHBOARD | AGENDAMENTOS</Link>
         </nav>
 
         <aside>
