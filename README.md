@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="src/assets/images/logo-purple.svg" alt="GoBarber" width="90">
+  <img src="src/assets/images/logo-purple.svg" alt="" width="200">
 <br>
 <br>
 GoBarber
@@ -8,12 +8,6 @@ GoBarber
 
 <p align="center">GoBarber - WebApp</p>
 <p align="center">Project based on a scheduling service for barbers promoting control, organization and convenience to their customers.</p>
-
-![App Screenshot](https://res.cloudinary.com/w-arantes/image/upload/v1585270969/login_page_zv5euf.png)
-
-![App Screenshot](https://res.cloudinary.com/w-arantes/image/upload/v1585270961/dashboard_aodv9j.png)
-
-![App Screenshot](https://res.cloudinary.com/w-arantes/image/upload/v1585270956/profile_gskf59.png)
 
 <p align="center">
   <a href="http://makeapullrequest.com">
@@ -54,6 +48,14 @@ Libraries featured in this project.
 - [**Multer**](https://www.npmjs.com/package/multer) — Middleware library to multipart/form-data
 - [**Youch**](https://www.npmjs.com/package/youch) — A strucuture HTML/JSON for errors
 - [**Cors**](https://github.com/expressjs/cors) — Package for providing a Connect/Express middleware
+
+## **App Screenshots**
+
+![App Screenshot](https://res.cloudinary.com/w-arantes/image/upload/v1585270969/login_page_zv5euf.png)
+
+![App Screenshot](https://res.cloudinary.com/w-arantes/image/upload/v1585270961/dashboard_aodv9j.png)
+
+![App Screenshot](https://res.cloudinary.com/w-arantes/image/upload/v1585270956/profile_gskf59.png)
 
 ## **Getting Started**
 
